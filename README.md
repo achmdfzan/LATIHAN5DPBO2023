@@ -1,11 +1,11 @@
 # LATIHAN5DPBO2023
 
-https://user-images.githubusercontent.com/91662639/227785941-156a5bba-0981-4dee-8f38-976323340efb.mp4
-
 > Saya Achmad Fauzam NIM 2108061 mengerjakan soal Latihan Praktikum 5
 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek
 untuk keberkahanNya maka saya tidak melakukan kecurangan
 seperti yang telah dispesifikasikan. Aamiin.
+
+https://user-images.githubusercontent.com/91662639/227785941-156a5bba-0981-4dee-8f38-976323340efb.mp4
 
 ## Property Tambahan
 #### Jenis Kelamin - menggunakan satu button group dan dua radio button
